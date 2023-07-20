@@ -1,0 +1,9 @@
+Package: com.123.flex
+Name: FLEX
+Version: 0.0.1
+Depends: PreferenceLoader
+Architecture: iphoneos-arm
+Description: FLEX
+Maintainer: 123
+Author: 123
+Section: System
